@@ -1,0 +1,13 @@
+C:\Users\morea\OneDrive\Desktop\ASH\Registration\bin\Debug\netcoreapp3.1\Registration.exe
+C:\Users\morea\OneDrive\Desktop\ASH\Registration\bin\Debug\netcoreapp3.1\Registration.deps.json
+C:\Users\morea\OneDrive\Desktop\ASH\Registration\bin\Debug\netcoreapp3.1\Registration.runtimeconfig.json
+C:\Users\morea\OneDrive\Desktop\ASH\Registration\bin\Debug\netcoreapp3.1\Registration.runtimeconfig.dev.json
+C:\Users\morea\OneDrive\Desktop\ASH\Registration\bin\Debug\netcoreapp3.1\Registration.dll
+C:\Users\morea\OneDrive\Desktop\ASH\Registration\bin\Debug\netcoreapp3.1\Registration.pdb
+C:\Users\morea\OneDrive\Desktop\ASH\Registration\obj\Debug\netcoreapp3.1\Registration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\morea\OneDrive\Desktop\ASH\Registration\obj\Debug\netcoreapp3.1\Registration.AssemblyInfoInputs.cache
+C:\Users\morea\OneDrive\Desktop\ASH\Registration\obj\Debug\netcoreapp3.1\Registration.AssemblyInfo.cs
+C:\Users\morea\OneDrive\Desktop\ASH\Registration\obj\Debug\netcoreapp3.1\Registration.csproj.CoreCompileInputs.cache
+C:\Users\morea\OneDrive\Desktop\ASH\Registration\obj\Debug\netcoreapp3.1\Registration.dll
+C:\Users\morea\OneDrive\Desktop\ASH\Registration\obj\Debug\netcoreapp3.1\Registration.pdb
+C:\Users\morea\OneDrive\Desktop\ASH\Registration\obj\Debug\netcoreapp3.1\Registration.genruntimeconfig.cache
